@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.secneo.enterprisecontact</string>
+				<string>com.ls.demo</string>
 				<key>bundle-version</key>
-				<string>1.0.012</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>vnetios</string>
+				<string>asf</string>
 				<key>title</key>
-				<string>vnetios</string>
+				<string>lsasf</string>
 			</dict>
 		</dict>
 	</array>
